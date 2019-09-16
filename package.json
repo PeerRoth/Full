@@ -1,0 +1,24 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "fullstack react redux express database-tbd",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeerRoth/Full.git"
+  },
+  "keywords": [
+    "fuck",
+    "ya"
+  ],
+  "author": "pr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeerRoth/Full/issues"
+  },
+  "homepage": "https://github.com/PeerRoth/Full#readme"
+}
